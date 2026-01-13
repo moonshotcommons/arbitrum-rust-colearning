@@ -27,15 +27,15 @@ arbitrum-rust-colearning/
 ├── arbitrum-rust-colearning-alice/
 │   └── task1/
 │       ├── README.md               # 📝 包含所有5个关卡的运行结果截图
-│       ├── level1-gas-calculator/
+│       ├── level1-connect-testnet/
 │       │   ├── Cargo.toml
 │       │   └── src/
 │       │       └── main.rs
-│       ├── level2-connect-testnet/
+│       ├── level2-query-balance/
 │       │   ├── Cargo.toml
 │       │   └── src/
 │       │       └── main.rs
-│       ├── level3-query-balance/
+│       ├── level3-gas-calculator/
 │       │   ├── Cargo.toml
 │       │   └── src/
 │       │       └── main.rs
